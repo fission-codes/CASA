@@ -96,7 +96,7 @@ Below, please find a list of all members and their organizations.
 | [Metagov](https://metagov.org) | Joshua Tan ([@thelastjosh](https://github.com/thelastjosh)) | Member | All Working Groups |
 | [kycDAO](https://kycdao.xyz) | Balázs Némethi ([@nembal](https://github.com/nembal)) | Member | All Working Groups |
 | [cheqd](https://www.cheqd.io/) | Ross Power ([@rosspower11](https://github.com/rosspower11)) | Member | All Working Groups |
-| [Fission](https://fission.codes/) | Boris Mann ([@bmann](https://github.com/bmann)), Brooklyn Zelenka ([@expede](https://github.com/expede)) | Member | All Working Groups |
+| [Fission](https://fission.codes/) | Boris Mann ([@bmann](https://github.com/bmann)), Brooklyn Zelenka ([@expede](https://github.com/expede)), Ryan Betts ([@depatchedmode](https://github.com/depatchedmode)), Andy Vivash ([@avivash](https://github.com/avivash)) | Member | All Working Groups |
 | [Danube Tech](https://danubetech.com/) | Markus Sabadello ([@peacekeeper](https://github.com/peacekeeper)) | Member | All Working Groups |
 | [Obvious](https://obvious.technology/) | Jebu Ittiachen ([@jebu](https://github.com/jebu)) | Member | All Working Groups |
 | [Dynamic](https://www.dynamic.xyz/) | Itai Turbahn ([@turbahn](https://github.com/turbahn)), Paolo Lim ([@paololim](https://github.com/paololim)) | Member | All Working Groups |
@@ -107,7 +107,6 @@ Below, please find a list of all members and their organizations.
 | [Fireblocks](https://www.fireblocks.com/) | Oren Yomtov ([@orenyomtov](https://github.com/orenyomtov)), Arik Galansky ([@arikg](https://github.com/arikg)) | Member | All Working Groups |
 | [MetaMask](https://metamask.io/) | Erik Marks ([@rekmarks](https://github.com/rekmarks)), Olaf Tomalka ([@ritave](https://github.com/ritave)) | Member | All Working Groups |
 | [Shovel Company](https://shovel.company/) | Prashant Mittal ([@prashant3863](https://github.com/prashant3863)) | Member | All Working Groups |
-| [Fission](https://fission.codes/) | Andy Vivash ([@avivash](https://github.com/avivash)), Ryan Betts ([@depatchedmode](https://github.com/depatchedmode)) | Member | All Working Groups |
 
 <a name="Join"></a>
 
