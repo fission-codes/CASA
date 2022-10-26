@@ -31,7 +31,7 @@ CASA participants are structured into three groups:
 | :------------- | :---------------------------------------------------------------------------------------------- |
 | Members        | All participants who contribute in any form, including github review. Expected to participate in one or more topical working groups. |
 | Working Groups | Topical clusters of CAIPs and namespaces. These change over time according to activity          |
-| Editoral board/"Codeowners" | A subset of membership including the authors of accepted CAIPs committed to ongoing review and maintainance of the CAIPs and namespaces |
+| Editorial board/"Codeowners" | A subset of membership including the authors of accepted CAIPs committed to ongoing review and maintenance of the CAIPs and namespaces |
 
 <a name="meetings"></a>
 
@@ -48,7 +48,7 @@ We also have periodic in-person meetings, to onboard new participants and, where
 1. Implicit agenda: Issues in the `CAIPs/` repo that have been marked as "next meeting", as time allows.
 1. Housekeeping, agenda requests for the following meeting, and open discussion.
 
-*Note: the purpose of the `next meeting` tag is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to merge at a future meeting. In cases where a timely merge is desired, codeowners may also chose to apply a `merge soon` tag, which is a way of requesting more review for an approved PR (and avoid a valid PR sitting unmerged across multiple meetings for lack of discussion).*
+*Note: the purpose of the `next meeting` tag is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to merge at a future meeting. In cases where a timely merge is desired, codeowners may also choose to apply a `merge soon` tag, which is a way of requesting more review for an approved PR (and avoid a valid PR sitting unmerged across multiple meetings for lack of discussion).*
 
 ## **Discord Server**
 
